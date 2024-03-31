@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LifeTrack</string>
+    <string name="save">Сохранить</string>
+    <string name="f">Фамилия</string>
+    <string name="gg">Введите вашу фамилию</string>
+    <string name="h">Имя</string>
+    <string name="jj">Введите ваше имя</string>
+    <string name="lifeTrack">LifeTrack!</string>
+    <string name="dd">Профиль</string>
+</resources>
